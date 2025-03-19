@@ -33,7 +33,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
-      <body className={`${raleway.variable} font-sans`}>
+      <body className={`${raleway.variable}`}>
         <ClientBody>
           {children}
         </ClientBody>
