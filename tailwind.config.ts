@@ -86,10 +86,7 @@ const config = {
       },
     },
   },
-  plugins: [
-    import("tailwindcss-animate"),
-    import("@tailwindcss/typography"),
-  ],
+
 } satisfies Config
 
 export default config
