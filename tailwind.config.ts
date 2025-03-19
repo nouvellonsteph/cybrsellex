@@ -69,6 +69,7 @@ const config = {
       fontFamily: {
         sans: ["var(--font-sans)", ...fontFamily.sans],
         baba: ["BabaPro-Bold", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"],
       },
       keyframes: {
         "accordion-down": {
